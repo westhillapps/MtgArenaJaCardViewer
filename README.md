@@ -5,11 +5,9 @@
 で日本語版のカード画像を表示するツールです。  
 <br />
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-01.gif)  
-<br />
 
 ## ダウンロード
 * **[リリースページ](https://github.com/WestHillApps/MtgArenaJaCardViewer/releases)** から最新版の **MtgArenaJaCardViewer_vXXX.zip** を保存してください。  
-<br />
 
 ## 使い方
 * zipを解凍して **MtgArenaJaCardViewer.exe** を実行すると起動します。  
@@ -23,7 +21,6 @@
 * スクリーン下部のチェックボックスで機能のON/OFFを切り替えられます。
 
 * スクリーン下部のダイアログが回転している間は、画面の解析中です。  
-<br />
 
 ## 仕様・機能
 * **Windows10 64bit版** 専用です。
@@ -54,7 +51,6 @@
 
 * 何かあればTwitterアカウントへご連絡ください。  
 どうしたら使いやすくなるのか模索中なので、ご意見募集中です！  
-<br />
 
 ## 連絡先
 [@westhillapps](https://twitter.com/westhillapps)  
@@ -63,8 +59,6 @@
 <img alt="Follow me on Twitter"
 src="https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/twitter.png" width="75"/>
 </a>
-<br />
-<br />
 
 ## クレジット
 以下のライブラリを使用しています。  
