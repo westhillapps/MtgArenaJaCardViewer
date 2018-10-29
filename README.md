@@ -1,4 +1,4 @@
-﻿# MtgArenaJaCardViewer
+# MtgArenaJaCardViewer
 
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
 **Magic: The Gathering Arena（MTGA、MTG Arena、MTG アリーナ）**  
@@ -6,9 +6,11 @@
 <br />
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-01.gif)  
 <br />
+
 ## ダウンロード
 * **[リリースページ](https://github.com/WestHillApps/MtgArenaJaCardViewer/releases)** から最新版の **MtgArenaJaCardViewer_vXXX.zip** を保存してください。  
 <br />
+
 ## 使い方
 * zipを解凍して **MtgArenaJaCardViewer.exe** を実行すると起動します。  
 ※MTGAを起動してから実行してください。  
@@ -22,6 +24,7 @@
 
 * スクリーン下部のダイアログが回転している間は、画面の解析中です。  
 <br />
+
 ## 仕様・機能
 * **Windows10 64bit版** 専用です。
 
@@ -50,9 +53,9 @@
 * 開発中のため、不具合等色々問題あると思いますが、ご容赦ください。
 
 * 何かあればTwitterアカウントへご連絡ください。  
-どうしたら使いやすくなるのか模索中なので、ご意見募集中です！
+どうしたら使いやすくなるのか模索中なので、ご意見募集中です！  
 <br />
-<br />
+
 ## 連絡先
 [@westhillapps](https://twitter.com/westhillapps)  
 
