@@ -20,10 +20,13 @@
 
 * スクリーン下部のチェックボックスで機能のON/OFFを切り替えられます。
 
-* スクリーン下部のダイアログが回転している間は、画面の解析中です。  
+* スクリーン下部で丸いアイコンが回転している間は、画面の解析中です。  
 
-## 仕様・機能
-* **Windows10 64bit版** 専用です。
+![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-02.png)  
+
+## 仕様
+* **Windows10 64bit版** 専用です。  
+**Windows8.1** でも動作するみたいですが、手元に環境がないためサポート外となります。
 
 * 日本語版カード画像は初回表示時のみダウンロードされ、以下のフォルダに保存されます。  
 **C:/Users/{ユーザー名}/AppData/LocalLow/WestHillApps/MtgArenaJaCardViewer/CardTextureCache/**  
@@ -40,6 +43,7 @@
 * カード以外の空間を誤認することがあります。
 
 * **1920x1080**の画面サイズで動作確認しています。  
+これより小さい画面では動作しないかもしれません。  
 画面サイズは大きいほうが認識しやすいです。
 
 * リアルタイムで画像解析を行っているため、**CPU負荷**はそれなりにあります。  
@@ -47,10 +51,11 @@
 
 * 動作を改善していくために[Unityアナリティクス](https://unity.com/solutions/analytics)を使用しています。（[プライバシーポリシー](https://unity3d.com/legal/privacy-policy)）
 
-* 開発中のため、不具合等色々問題あると思いますが、ご容赦ください。
+* 開発中のため、不具合等色々問題あるかと思いますが、ご容赦ください。
 
-* 何かあればTwitterアカウントへご連絡ください。  
-どうしたら使いやすくなるのか模索中なので、ご意見募集中です！  
+* 何かあればTwitterアカウントへ連絡ください。    
+どうしたら使いやすくなるのか模索中なので、ご意見募集中です。  
+今後のツール更新情報等もTwitterアカウントで行います。  
 
 ## 連絡先
 [@westhillapps](https://twitter.com/westhillapps)  
