@@ -59,6 +59,8 @@
 * 何かあればTwitterアカウントへ連絡ください。  
 どうしたら使いやすくなるのか模索中なので、ご意見募集中です。  
 
+* **※ご利用は自己責任でお願いします。**
+
 ## 連絡先
 [@westhillapps](https://twitter.com/westhillapps)  
 
