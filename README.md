@@ -3,6 +3,8 @@
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
 **Magic: The Gathering Arena（MTGA、MTG Arena、MTG アリーナ）**  
 で日本語版のカード画像を表示するツールです。  
+
+**※ご利用は自己責任でお願いします。**  
 <br />
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-01.gif)  
 
@@ -55,8 +57,6 @@
 * 開発中のため、不具合等色々問題あるかと思いますが、ご容赦ください。
 
 * ツール更新情報等はTwitterアカウントでお知らせします。
-
-* **※ご利用は自己責任でお願いします。**
 
 ## 連絡先
 [@westhillapps](https://twitter.com/westhillapps)  
