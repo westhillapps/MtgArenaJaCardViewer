@@ -9,7 +9,7 @@
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-01.gif)  
 
 ## ダウンロード
-* **[リリースページ](https://github.com/WestHillApps/MtgArenaJaCardViewer/releases)** から最新版の **MtgArenaJaCardViewer_vXXX.zip** を保存してください。  
+* [**リリースページ**](https://github.com/WestHillApps/MtgArenaJaCardViewer/releases) から最新版の **MtgArenaJaCardViewer_vXXX.zip** を保存してください。  
 
 ## 使い方
 * zipを解凍して **MtgArenaJaCardViewer.exe** を実行すると起動します。  
@@ -43,6 +43,9 @@
 * カードによっては認識・マッチしない場合があります。  
 対戦中にカードを右クリックすると画面左側に拡大画像が表示されるので、そちらだと認識しやすいです。
 
+* 現状で認識しにくいカードリストは → [**こちら**](https://github.com/WestHillApps/MtgArenaJaCardViewer/blob/master/UnmatchCardMemo.txt)  
+バージョンアップで認識していくように対応する予定です。
+
 * カード以外の空間を誤認することがあります。  
 
 * **1920x1080**の画面サイズで動作確認しています。  
@@ -52,7 +55,7 @@
 * リアルタイムで画像解析を行っているため、CPU負荷はそれなりにあります。  
 ある程度のスペックが無いと厳しいかも…
 
-* 動作を改善していくために[Unityアナリティクス](https://unity.com/solutions/analytics)を使用しています。（[プライバシーポリシー](https://unity3d.com/legal/privacy-policy)）
+* 動作を改善していくために [**Unityアナリティクス**](https://unity.com/solutions/analytics) を使用しています。（[**プライバシーポリシー**](https://unity3d.com/legal/privacy-policy)）
 
 * 開発中のため、不具合等色々問題あるかと思いますが、ご容赦ください。
 
