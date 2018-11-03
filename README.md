@@ -43,8 +43,8 @@
 * カードによっては認識・マッチしない場合があります。  
 対戦中にカードを右クリックすると画面左側に拡大画像が表示されるので、そちらだと認識しやすいです。
 
-* 現状で認識しにくいカードリストは → [**こちら**](https://github.com/WestHillApps/MtgArenaJaCardViewer/blob/master/UnmatchCardMemo.txt)  
-バージョンアップで認識していくように対応する予定です。
+* 現状で認識しにくいカードの一覧は → [**こちら**](https://github.com/WestHillApps/MtgArenaJaCardViewer/blob/master/UnmatchCardMemo.txt)  
+順次認識していくように対応する予定です。
 
 * カード以外の空間を誤認することがあります。  
 
