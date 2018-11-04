@@ -6,7 +6,7 @@ Sun Sentinel
 Legion Conquistador
 Ixalan's Binding
 Lyra Dawnbringer
-Arani, Wise Counselor
+Ajani, Wise Counselor
 Fall of the Thran
 
 ■青■
@@ -42,7 +42,7 @@ Fiery Finish
 Lava Coil
 The Flame of Keld
 Headstrong Brute
-Snake the Foundations
+Shake the Foundations
 The First Eruption
 Sarkhan, Fireblood
 Rampaging Ferocidon （禁止カード）
@@ -55,7 +55,7 @@ Chandra, Bold Pyromancer
 
 ■緑■
 Llanowar Elves
-Gererous Stray
+Generous Stray
 Shapers' Sanctuary
 Merfolk Branchwalker
 Song of Freyalise
