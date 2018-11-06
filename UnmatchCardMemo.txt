@@ -1,93 +1,11 @@
-﻿■白■
-Encampment Keeper
-Mesa Unicorn
-Raptor Companion
-Sun Sentinel
-Legion Conquistador
-Ixalan's Binding
-Lyra Dawnbringer
-Ajani, Wise Counselor
-Fall of the Thran
-
-■青■
-Siren Stormtamer
-Shore Keeper
-Shaper Apprentice
-Wall of Mist
-Deeproot Waters
-Cancel
-Sailor of Means
-Jace, Cunning Castaway
-Tolarian Scholar
-Headwater Sentries
-Jace, Ingenious Mind-Mage
+﻿■赤■
+Fiery Finish
 
 ■黒■
-Sanctum Seeker
-Rite of Belzenlok
-Chainer's Torment
-Lurking Chupacabra
-Contract Killing
-Liliana, the Necromancer
-Spreading Rot
-The Eldest Reborn
 Yawgmoth's Vile Offering
-Deathless Ancient
-
-■赤■
-Lightning Strike
-Burning Sun's Avatar
-Charging Monstrosaur
-Fiery Finish
-Lava Coil
-The Flame of Keld
-Headstrong Brute
-Shake the Foundations
-The First Eruption
-Sarkhan, Fireblood
-Rampaging Ferocidon （禁止カード）
-Radiating Lightning
-Jaya Ballard
-Firefist Adept
-Sarkhan, Dragonsoul
-Angrath's Marauders
-Chandra, Bold Pyromancer
 
 ■緑■
-Llanowar Elves
-Generous Stray
-Shapers' Sanctuary
-Merfolk Branchwalker
 Song of Freyalise
-Ranging Raptors
-Spike-Tailed Ceratops
-Colossal Dreadmaw
-Impervious Greatwurm
-Vivien of the Arkbow
-
-■多色■
-Teferi, Hero of Dominaria
-Teferi, Timebender
-Ral, Izzet Viceroy
-Ral, Caller of Storms
-Angrath, the Flame-Chained
-Vraska, Regal Gorgon
-Vraska, Relic Seeker
-Vraska, Golgari Queen
-Firesong and Sunspeaker
-Huatli, Dinosaur Knight
-Huatli, Warrior Poet
-
-■無■
-Manalith
-Gilded Sentinel
-Pirate's Cutlass
-Amaranthine Wall
-Conqueror's Galleon
-Dusk Legion Dreadnought
 
 ■土地■
-Glacial Fortress
 Stone Quarry
-Woodland Stream
-Evolving Wilds
