@@ -1,6 +1,6 @@
 # MtgArenaJaCardViewer
 
-![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
+![imgicon](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
 **Magic: The Gathering Arena（MTGA、MTG Arena、MTG アリーナ）**  
 で日本語版のカード画像を表示するツールです。  
 
@@ -24,7 +24,7 @@ MTGAを起動してから実行してください。
 
 * スクリーン下部で丸いアイコンが回転している間は、画面の解析中です。  
 
-![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-02.png)  
+![img02](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-02.png)  
 
 ## 仕様
 * **Windows10 64bit版** 専用です。  
@@ -43,8 +43,7 @@ MTGAを起動してから実行してください。
 **基本土地カード**  
 **スタンダードフォーマット以外のカード**  
 **チュートリアル専用カード、MTGA専用カード、未発売のセット等の日本語版が存在しないカード**  
-
-![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-03.png)  
+![img03](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-03.png)  
 
 * カードによっては認識・マッチしない場合があります。  
 対戦中にカードを右クリックすると画面左側に拡大画像が表示されるので、そちらだと認識しやすいです。
