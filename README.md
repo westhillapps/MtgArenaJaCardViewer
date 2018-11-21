@@ -12,6 +12,8 @@
 * [**リリースページ**](https://github.com/WestHillApps/MtgArenaJaCardViewer/releases) から最新版の **MtgArenaJaCardViewer_vXXX.zip** を保存してください。  
 
 ## 使い方
+* 事前に [**Microsoft Visual C++ 2015 再頒布可能パッケージ (x64)**](https://www.microsoft.com/ja-jp/download/details.aspx?id=53840) のインストールが必要です。  
+
 * zipを解凍して **MtgArenaJaCardViewer.exe** を実行すると起動します。  
 MTGAを起動してから実行してください。  
 カード画像ダウンロードのために通信を行いますので、自己判断で通信許可をしてください。  
@@ -27,13 +29,16 @@ MTGAに更新があった場合は、更新後に1度MTGAを終了して再起�
 
 ![img02](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-02.png)  
 
+* **v0.0.5** 以降はツールに更新がある場合、以下のダイアログが表示されます。  
+「はい」を選ぶとリリースページが開くので、最新バージョンをダウンロードしてフォルダ毎置き換えてください。  
+
+![img04](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-04.png)
+
 ## 仕様
 * **Windows10 64bit版** 専用です。  
-**Windows8.1** でも動作するみたいですが、手元に環境がないためサポート外となります。    
-環境やスペックによっては動かないこともあるようです。  
-動かない場合は↓のパッケージがインストールされているかも確認してみてください。  
-
-* [**Microsoft Visual C++ 2015 再頒布可能パッケージ (x64)**](https://www.microsoft.com/ja-jp/download/details.aspx?id=53840) のインストールが必要です。  
+**Windows8.1 64bit版** でも動作するみたいですが、手元に環境がないためサポート外となります。    
+ [**Microsoft Visual C++ 2015 再頒布可能パッケージ (x64)**](https://www.microsoft.com/ja-jp/download/details.aspx?id=53840) のインストールが必要です。  
+上記を満たしていても、環境やスペックによっては動かないこともあるようです。  
 
 * 日本語版カード画像は初回表示時のみダウンロードされ、以下のフォルダに保存されます。  
 **{ユーザーフォルダ}/AppData/LocalLow/WestHillApps/MtgArenaJaCardViewer/CardTextureCache/**  
