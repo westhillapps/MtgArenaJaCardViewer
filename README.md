@@ -1,5 +1,7 @@
 # MtgArenaJaCardViewer
 
+![GitHub All Releases](https://img.shields.io/github/downloads/westhillapps/mtgarenajacardviewer/total.svg)  
+
 ![imgicon](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
 **Magic: The Gathering Arena（MTGA、MTG Arena、MTG アリーナ）**  
 で日本語版のカード画像を表示するツールです。  
@@ -47,8 +49,9 @@ MTGAに更新があった場合は、更新後に1度MTGAを終了して再起�
 
 * 以下のカードには対応していません。  
 **基本土地カード**  
-**スタンダードフォーマット以外のカード**  
-**チュートリアル専用カード、MTGA専用カード、未発売のセット等の日本語版が存在しないカード**  
+**チュートリアル専用カード**  
+**日本語版が存在しないカード**  
+**MTGA専用カード**  
 ![img03](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-03.png)  
 
 * カードによっては認識・マッチしない場合があります。  
@@ -63,7 +66,9 @@ MTGAに更新があった場合は、更新後に1度MTGAを終了して再起�
 これより小さい画面では動作しないかもしれません。  
 画面サイズは大きいほうが認識しやすいです。
 
-* リアルタイムで画像解析を行っているため、CPU負荷はそれなりにあります。  
+* マルチディスプレイの場合は、**メインディスプレイ上でのみ**動作します。  
+
+* リアルタイムで画面をキャプチャして画像解析を行っているため、CPU＆GPU負荷はそれなりにあります。  
 ある程度のスペックが無いと厳しいかも…
 
 * 動作を改善していくために [**Unityアナリティクス**](https://unity.com/solutions/analytics) を使用しています。（[**プライバシーポリシー**](https://unity3d.com/legal/privacy-policy)）
