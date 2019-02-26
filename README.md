@@ -2,12 +2,14 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/westhillapps/mtgarenajacardviewer/total.svg)  
 
+## ※2019年2月15日のアップデートで、MTGAに日本語版が実装されたので、本ツールの更新は終了しています。
+
 ![imgicon](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-icon.png)  
 **Magic: The Gathering Arena（MTGA、MTG Arena、MTG アリーナ）**  
 で日本語版のカード画像を表示するツールです。  
 
 **※ご利用は自己責任でお願いします。**  
-<br />
+
 ![img01](https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/master/res/mtga-ja-card-viewer-01.gif)  
 
 ## ダウンロード
